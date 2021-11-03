@@ -24,6 +24,10 @@ description: So that I don't feel bad about dead projects
 
 This is a place to write about failed or abandoned projects. It's basically so I don't feel like it was wasted effort and to encourage me to kill projects that aren't working.
 
+List of dead projects:
+
+1. Project Graveyard: This project. I thought I would write about these failed projects that never reached a polished state but who was I kidding?
+
 <p class="text-center">
 {% include elements/button.html link="" text="Coming Eventually (Maybe)" %}
 </p>
