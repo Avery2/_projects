@@ -28,6 +28,3 @@ List of dead projects:
 
 1. Project Graveyard: This project. I thought I would write about these failed projects that never reached a polished state but who was I kidding?
 
-<p class="text-center">
-{% include elements/button.html link="" text="Coming Eventually (Maybe)" %}
-</p>
