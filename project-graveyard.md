@@ -22,7 +22,7 @@ description: So that I don't feel bad about dead projects
 
 # Project Graveyard
 
-This is a place to write about failed or abandoned projects. It's basically so I don't feel like it was wasted effort and to encourage me to kill projects that aren't working.
+This is a place to write about failed or abandoned projects to encourage me to kill projects that aren't working without feeling it was wasted effort.
 
 List of dead projects:
 
